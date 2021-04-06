@@ -1,4 +1,5 @@
-### Hi there!
+## Hi there!
+
 I'm a student, an engineer and a developer!
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Learning more about programming languages (like JS) and cybersecurity
