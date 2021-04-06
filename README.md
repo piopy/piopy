@@ -3,7 +3,7 @@
 I'm a student, an engineer and a developer!
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Learning more about programming languages (like JS) and cybersecurity
-- ⚡ I love to draw, play guitar and take lots of photos
+- ⚡ I love to draw, cook, play guitar and take lots of photos
 
 <br/>
 
