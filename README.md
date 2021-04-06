@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a student, an engineer and a developer!
+I'm a student, an engineer and a developer based in Bologna, IT!
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Learning more about programming languages (like JS) and cybersecurity
 - ⚡ I love to draw, cook, play guitar and take lots of photos
