@@ -10,8 +10,9 @@ I'm a student, an engineer and a developer!
 ## Connect with me
 
 [<img align="left" alt="about.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/chat.svg" />][mail]
 
 <br/>
 
@@ -22,5 +23,7 @@ I'm a student, an engineer and a developer!
 
 
 [website]: https://about.me/antoniopio.volgarino
+[mail]: antoniovolgarino@gmail.com
 [twitter]: https://twitter.com/solosepiovuole
 [instagram]: https://instagram.com/volga.jpg
+
