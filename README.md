@@ -19,6 +19,7 @@ I'm a student, an engineer and a developer based in Bologna, IT!
 ## Languages and stats
 
 [![piopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=piopy&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/piopy)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piopy&layout=compact)](https://github.com/piopy)
 
 
