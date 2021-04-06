@@ -24,7 +24,7 @@ I'm a student, an engineer and a developer based in Bologna, IT!
 
 
 [website]: https://about.me/antoniopio.volgarino
-[mail]: antoniovolgarino@gmail.com
+[mail]: mailto:antoniovolgarino@gmail.com
 [twitter]: https://twitter.com/solosepiovuole
 [instagram]: https://instagram.com/volga.jpg
 
