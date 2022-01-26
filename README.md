@@ -2,8 +2,8 @@
 
 I'm a student, an engineer and a developer based in Bologna, IT!
 - 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Learning more about programming languages (like JS) and cybersecurity
-- ⚡ I love to draw, cook, play guitar and take lots of photos
+- 🥅 2022 Goals: Learning more about programming languages (like JS) and cybersecurity
+- ⚡ I love to draw, cook and take lots of photos
 
 <br/>
 
