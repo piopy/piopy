@@ -1,11 +1,9 @@
 ## Hi there!
 
-I'm a student, an engineer and a developer based in Bologna, IT!
+I'm an engineer and a developer based in Bologna, IT!
 - 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: 
-  - Learning more about programming languages (like JS) and cybersecurity
-  - Improve my front-end knowledges
-  - Archive the master's degree in computer engineering
+- 🥅 2023 Goals: 
+  - Loading ...
 - ⚡ I love to draw, cook and take lots of photos
 
 <br/>
