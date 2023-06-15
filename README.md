@@ -10,7 +10,7 @@ I'm an engineer and a developer based in Bologna, IT!
 
 ## Connect with me
 
-[<img align="left" alt="about.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/chat.svg" />][mail]
@@ -24,7 +24,7 @@ I'm an engineer and a developer based in Bologna, IT!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piopy&layout=compact)](https://github.com/piopy)
 
 
-[website]: https://about.me/antoniopio.volgarino
+[website]: https://piopy.github.io/
 [mail]: mailto:antoniovolgarino@gmail.com
 [twitter]: https://twitter.com/solosepiovuole
 [instagram]: https://instagram.com/volga.jpg
