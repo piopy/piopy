@@ -1,9 +1,7 @@
 ## Hi there!
 
-I'm an engineer and a developer based in Bologna, IT!
+I'm a data engineer based in Bologna, IT!
 - 🌱 I’m currently learning everything 
-- 🥅 2023 Goals: 
-  - Loading ...
 - ⚡ I love to draw, cook and take lots of photos
 
 <br/>
