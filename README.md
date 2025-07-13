@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a data engineer based in Bologna, IT!
+I'm a data engineer and python dev based in Bologna, IT!
 - 🌱 I’m currently learning everything 
 - ⚡ I love to draw, cook and take lots of photos
 
